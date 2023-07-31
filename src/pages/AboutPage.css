@@ -1,0 +1,32 @@
+.about-container {
+    max-width: 800px;
+    margin: 5rem auto;
+    padding: 40px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .about-content {
+    line-height: 1.6;
+    color: #666;
+  }
+  
+  .name {
+    font-weight: bold;
+  }
+  
+  .institute {
+    font-style: italic;
+  }
+  
+  .api-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .api-link:hover {
+    text-decoration: underline;
+  }
+  
